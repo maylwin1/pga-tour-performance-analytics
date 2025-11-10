@@ -12,7 +12,7 @@ Spoiler: It's not what you think. While everyone obsesses over driving distance,
 # Money Talks
 - **Power Hitters** earn 25% more than accuracy players
 - **Top 10%** of players make 2x the average tour pro
-- **Strokes Gained: Approach** has the highest correlation with earnings (not driving distance!)
+- **Strokes Gained: Approach** has the highest correlation with earnings (not driving distance)
 
 # Player Personalities
 - **Power Hitters**: Long off the tee, less accurate
