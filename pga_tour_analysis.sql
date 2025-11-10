@@ -173,7 +173,7 @@ WHERE prev_year_score IS NOT NULL
 ORDER BY improvement DESC
 LIMIT 10;
 
--- How strongly do different skills correlate with earnings? (MySQL method)
+-- How strongly do different skills correlate with earnings?
 SELECT 
     'Scoring Average' AS metric,
     ROUND(
