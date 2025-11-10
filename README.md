@@ -30,10 +30,9 @@ Spoiler: It's not what you think. While everyone obsesses over driving distance,
 # The Files You'll Find:
 
 [sql] 
-
+- `pga_tour_analysis.sql` - SQL query to discover insights
 [excel]
-- `pga_dashboard.xlsx` - Interactive dashboard
-
+- `pga_tour_dashboard.png` - Screenshot of the dashboard
 [docs]
 - `project_analysis.pdf` - Deep dive into methodology and findings
 
